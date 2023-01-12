@@ -24,7 +24,7 @@ import java.util.Objects;
  * Main Class to be run which uses the Rainfall Visualiser/Analyser classes.
  * Creates an interactive app using JavaFX.
  *
- * See https://github.com/SamuelHealion/CP2406Assignment_Beta for the project repository
+ * See https://github.com/kaung-si/CP2406Assignment for the project repository
  */
 public class Main extends Application {
 
